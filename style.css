@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half{
     width: 50%  ;
@@ -22,6 +23,13 @@ section{
     text-decoration: none;
     background-color: orange;
     padding: 10px 30px;
+    
+}
+.Dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 500px;
+    
 }
 
-}
