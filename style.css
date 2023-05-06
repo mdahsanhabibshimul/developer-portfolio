@@ -42,7 +42,7 @@ h2{
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: ;
+    
 }
 .experience-item{
     width: 40%;
@@ -51,6 +51,7 @@ h2{
     box-shadow: 10px 10px 50px gray;
     padding-left: 20px;
     border-radius: 20px;
+    
 }
 #full-stake-developer{
     border-left: 7px solid red;
