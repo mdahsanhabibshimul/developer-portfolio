@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.top-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
 h1{
     font-size: 50px;
 }
@@ -45,5 +49,16 @@ h2{
     margin-left: 5%;
     margin: 5%;
     box-shadow: 10px 10px 50px gray;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+#full-stake-developer{
+    border-left: 7px solid red;
+}
+#baby-web-developer{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
 }
 
